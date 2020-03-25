@@ -1,4 +1,4 @@
 # Readings
 Readings 
 ----
-[Effective Go](https://golang.org/doc/effective_go.html#introduction)
+[Effective Go](https://golang.org/doc/effective_go.html#introduction)   0%
