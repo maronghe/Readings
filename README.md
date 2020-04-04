@@ -9,7 +9,7 @@
 1. From [tcMalloc](https://gperftools.github.io/gperftools/tcmalloc.html)  to [Target]()  %0
 
 > Video
-1. [Go Allocator](https://www.youtube.com/watch?v=3CR4UNMK_Is) 100%
+1. [Go Allocator](https://www.youtube.com/watch?v=3CR4UNMK_Is) 100% , 2020-04-04 16:21:16
 
 
 
