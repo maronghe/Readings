@@ -12,7 +12,7 @@
 1. [Go Allocator](https://www.youtube.com/watch?v=3CR4UNMK_Is) 100% , 2020-04-04 16:21:16
 
 > Article
-1. [channel & select](https://www.youtube.com/watch?reload=9&v=d7fFCGGn0Wc&amp=&list=PLe5svQwVF1L5bNxB0smO8gNfAZQYWdIpI)
+1. [channel & select](https://www.youtube.com/watch?reload=9&v=d7fFCGGn0Wc&amp=&list=PLe5svQwVF1L5bNxB0smO8gNfAZQYWdIpI) 100%
 
 
 
