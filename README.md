@@ -4,6 +4,7 @@
 1.  [Effective Go](https://golang.org/doc/effective_go.html#introduction)   10%
 2.  [Go In Action,E-Book](https://livebook.manning.com/book/go-in-action/table-of-contents/) 0%
 3.  [深入理解Kafka核心设计与实践原理]() 10%
+4.  [垃圾回收算法手册  自动内存管理的艺术]   0% ` 链接:https://pan.baidu.com/s/1PdFldLwXi31ifhfD7zQ0sA  密码:zfs7 (强烈推荐)`
 
 > Translate
 1. From [tcMalloc](https://gperftools.github.io/gperftools/tcmalloc.html)  to [Target]()  %0
