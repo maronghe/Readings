@@ -12,6 +12,8 @@
 >    `链接:https://pan.baidu.com/s/1PdFldLwXi31ifhfD7zQ0sA  密码:zfs7 (强烈推荐)`
 >
 > 5. [TCP/IP详解] 10%
+> 6. [程序员的自我修养] 5%
+>    `链接:https://pan.baidu.com/s/1M6BZx2mMR1buq-NlMZtsZA  密码:di8d`
 
 > Translate
 >
