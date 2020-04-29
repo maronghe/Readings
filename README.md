@@ -25,6 +25,7 @@
 > Article
 - Go
   1. [channel & select](https://www.youtube.com/watch?reload=9&v=d7fFCGGn0Wc&amp=&list=PLe5svQwVF1L5bNxB0smO8gNfAZQYWdIpI) 100%
+  2. https://goquiz.github.io/#internals 70%
 
 - [Network - HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP)
   1. [TCP Nagle Algorithm](https://www.lifewire.com/nagle-algorithm-for-tcp-network-communication-817932)  `TODO`
