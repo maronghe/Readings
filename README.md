@@ -27,6 +27,7 @@
   1. [channel & select](https://www.youtube.com/watch?reload=9&v=d7fFCGGn0Wc&amp=&list=PLe5svQwVF1L5bNxB0smO8gNfAZQYWdIpI) 100%
   2. https://goquiz.github.io/#internals 70%
   3. [Micro In Action](https://medium.com/@dche423/micro-in-action-1be29b057f2d) 100%
+  4. https://segmentfault.com/a/1190000022678327?utm_source=tag-newest  0%
 
 - [Network - HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP)
   1. [TCP Nagle Algorithm](https://www.lifewire.com/nagle-algorithm-for-tcp-network-communication-817932)  `TODO`
