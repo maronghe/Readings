@@ -52,6 +52,8 @@ TBD
   
   1. [TCP Nagle Algorithm](https://www.lifewire.com/nagle-algorithm-for-tcp-network-communication-817932)  `TODO`
   
+  - Raft 论文
+  https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md#1-%E4%BB%8B%E7%BB%8D
   
 
 
